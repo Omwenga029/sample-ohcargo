@@ -163,3 +163,4 @@ C:\Users\User\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdC
 C:\Users\User\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\User\backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\User\backend\obj\Debug\net9.0\backend.sourcelink.json
+C:\Users\User\backend\bin\Debug\net9.0\BCrypt.Net-Next.dll
